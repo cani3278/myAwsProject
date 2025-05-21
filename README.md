@@ -1,1 +1,1 @@
-# myAwsProject
+Basic code for Course AWS
